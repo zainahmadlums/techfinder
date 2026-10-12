@@ -3,6 +3,10 @@
 
 **Project Category:** AI in Retail & E-Commerce
 
+**Project Repository:** [github.com/zainahmadlums/techfinder](https://github.com/zainahmadlums/techfinder)
+
+**Supporting Materials:** [Interface concept](assets/techfinder-concept.svg) | [Demo storyboard](docs/demo-storyboard.md) | [Technical architecture](docs/technical-architecture.md) | [Evaluation plan](docs/evaluation-plan.md)
+
 ## 1. Project Overview & Problem Statement
 
 Finding the right laptop in Pakistan often means searching through Paklap, Czone, RBTech and several other stores, comparing prices manually and trying to determine whether two similarly named products are actually identical. Even after finding a reasonable price, understanding what you're buying presents another challenge. What does an Intel Core i9-14900HX mean? Why can two laptops with the same RTX 4060 perform differently? How much should display quality, cooling or battery life influence a purchasing decision?
